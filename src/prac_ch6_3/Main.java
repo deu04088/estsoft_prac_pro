@@ -39,3 +39,4 @@ public class Main {
         System.out.println("학년: " + student2.getGrade());
     }
 }
+//just tets
